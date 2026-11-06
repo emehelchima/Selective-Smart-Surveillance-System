@@ -1,0 +1,602 @@
+[
+    {
+        "event": "zone_entry",
+        "track_id": 1,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 141,
+        "timestamp_seconds": 2.35,
+        "recorded_at": "2026-11-05T11:41:12"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 3,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 179,
+        "timestamp_seconds": 2.98,
+        "recorded_at": "2026-11-05T11:41:14"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 1,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 182,
+        "timestamp_seconds": 3.03,
+        "recorded_at": "2026-11-05T11:41:14"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 6,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 191,
+        "timestamp_seconds": 3.18,
+        "recorded_at": "2026-11-05T11:41:15"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 6,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 202,
+        "timestamp_seconds": 3.37,
+        "recorded_at": "2026-11-05T11:41:15"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 3,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 203,
+        "timestamp_seconds": 3.38,
+        "recorded_at": "2026-11-05T11:41:15"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 1,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 222,
+        "timestamp_seconds": 3.7,
+        "recorded_at": "2026-11-05T11:41:16"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 1,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 226,
+        "timestamp_seconds": 3.77,
+        "recorded_at": "2026-11-05T11:41:17"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 8,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 256,
+        "timestamp_seconds": 4.27,
+        "recorded_at": "2026-11-05T11:41:18"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 1,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 268,
+        "timestamp_seconds": 4.47,
+        "recorded_at": "2026-11-05T11:41:19"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 1,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 284,
+        "timestamp_seconds": 4.73,
+        "recorded_at": "2026-11-05T11:41:20"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 3,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 446,
+        "timestamp_seconds": 7.43,
+        "recorded_at": "2026-11-05T11:41:30"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 3,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 447,
+        "timestamp_seconds": 7.45,
+        "recorded_at": "2026-11-05T11:41:30"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 3,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 457,
+        "timestamp_seconds": 7.62,
+        "recorded_at": "2026-11-05T11:41:30"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 11,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 458,
+        "timestamp_seconds": 7.63,
+        "recorded_at": "2026-11-05T11:41:30"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 3,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 587,
+        "timestamp_seconds": 9.78,
+        "recorded_at": "2026-11-05T11:41:38"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 3,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 591,
+        "timestamp_seconds": 9.85,
+        "recorded_at": "2026-11-05T11:41:38"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 3,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 594,
+        "timestamp_seconds": 9.9,
+        "recorded_at": "2026-11-05T11:41:38"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 3,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 596,
+        "timestamp_seconds": 9.93,
+        "recorded_at": "2026-11-05T11:41:38"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 3,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 599,
+        "timestamp_seconds": 9.98,
+        "recorded_at": "2026-11-05T11:41:38"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 11,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 682,
+        "timestamp_seconds": 11.37,
+        "recorded_at": "2026-11-05T11:41:43"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 3,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 684,
+        "timestamp_seconds": 11.4,
+        "recorded_at": "2026-11-05T11:41:44"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 11,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 745,
+        "timestamp_seconds": 12.42,
+        "recorded_at": "2026-11-05T11:41:47"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 11,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 746,
+        "timestamp_seconds": 12.43,
+        "recorded_at": "2026-11-05T11:41:47"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 11,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 748,
+        "timestamp_seconds": 12.47,
+        "recorded_at": "2026-11-05T11:41:47"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 11,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 749,
+        "timestamp_seconds": 12.48,
+        "recorded_at": "2026-11-05T11:41:48"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 11,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 752,
+        "timestamp_seconds": 12.53,
+        "recorded_at": "2026-11-05T11:41:48"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 11,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 758,
+        "timestamp_seconds": 12.63,
+        "recorded_at": "2026-11-05T11:41:48"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 14,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 785,
+        "timestamp_seconds": 13.08,
+        "recorded_at": "2026-11-05T11:41:50"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 23,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 843,
+        "timestamp_seconds": 14.05,
+        "recorded_at": "2026-11-05T11:41:53"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 23,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 844,
+        "timestamp_seconds": 14.07,
+        "recorded_at": "2026-11-05T11:41:53"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 14,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 863,
+        "timestamp_seconds": 14.38,
+        "recorded_at": "2026-11-05T11:41:54"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 24,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 870,
+        "timestamp_seconds": 14.5,
+        "recorded_at": "2026-11-05T11:41:55"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 20,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 879,
+        "timestamp_seconds": 14.65,
+        "recorded_at": "2026-11-05T11:41:55"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 14,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 901,
+        "timestamp_seconds": 15.02,
+        "recorded_at": "2026-11-05T11:41:57"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 14,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 924,
+        "timestamp_seconds": 15.4,
+        "recorded_at": "2026-11-05T11:41:58"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 14,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 1279,
+        "timestamp_seconds": 21.32,
+        "recorded_at": "2026-11-05T11:42:19"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 33,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 1563,
+        "timestamp_seconds": 26.05,
+        "recorded_at": "2026-11-05T11:42:35"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 33,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 1565,
+        "timestamp_seconds": 26.09,
+        "recorded_at": "2026-11-05T11:42:35"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 31,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 1566,
+        "timestamp_seconds": 26.1,
+        "recorded_at": "2026-11-05T11:42:35"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 33,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 1569,
+        "timestamp_seconds": 26.15,
+        "recorded_at": "2026-11-05T11:42:36"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 31,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 1570,
+        "timestamp_seconds": 26.17,
+        "recorded_at": "2026-11-05T11:42:36"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 33,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 1570,
+        "timestamp_seconds": 26.17,
+        "recorded_at": "2026-11-05T11:42:36"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 31,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 1571,
+        "timestamp_seconds": 26.19,
+        "recorded_at": "2026-11-05T11:42:36"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 33,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 1571,
+        "timestamp_seconds": 26.19,
+        "recorded_at": "2026-11-05T11:42:36"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 31,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 1572,
+        "timestamp_seconds": 26.2,
+        "recorded_at": "2026-11-05T11:42:36"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 33,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 1572,
+        "timestamp_seconds": 26.2,
+        "recorded_at": "2026-11-05T11:42:36"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 33,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 1578,
+        "timestamp_seconds": 26.3,
+        "recorded_at": "2026-11-05T11:42:36"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 31,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 1589,
+        "timestamp_seconds": 26.49,
+        "recorded_at": "2026-11-05T11:42:37"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 31,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 1594,
+        "timestamp_seconds": 26.57,
+        "recorded_at": "2026-11-05T11:42:37"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 31,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 1607,
+        "timestamp_seconds": 26.79,
+        "recorded_at": "2026-11-05T11:42:38"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 37,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2011,
+        "timestamp_seconds": 33.52,
+        "recorded_at": "2026-11-05T11:43:02"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 37,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2016,
+        "timestamp_seconds": 33.6,
+        "recorded_at": "2026-11-05T11:43:02"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 37,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2026,
+        "timestamp_seconds": 33.77,
+        "recorded_at": "2026-11-05T11:43:02"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 37,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2028,
+        "timestamp_seconds": 33.8,
+        "recorded_at": "2026-11-05T11:43:03"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 37,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2035,
+        "timestamp_seconds": 33.92,
+        "recorded_at": "2026-11-05T11:43:03"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 41,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2065,
+        "timestamp_seconds": 34.42,
+        "recorded_at": "2026-11-05T11:43:05"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 41,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2091,
+        "timestamp_seconds": 34.85,
+        "recorded_at": "2026-11-05T11:43:07"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 31,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2143,
+        "timestamp_seconds": 35.72,
+        "recorded_at": "2026-11-05T11:43:10"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 43,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2202,
+        "timestamp_seconds": 36.7,
+        "recorded_at": "2026-11-05T11:43:13"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 43,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2203,
+        "timestamp_seconds": 36.72,
+        "recorded_at": "2026-11-05T11:43:13"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 41,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2207,
+        "timestamp_seconds": 36.79,
+        "recorded_at": "2026-11-05T11:43:13"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 31,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2240,
+        "timestamp_seconds": 37.34,
+        "recorded_at": "2026-11-05T11:43:15"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 31,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2256,
+        "timestamp_seconds": 37.6,
+        "recorded_at": "2026-11-05T11:43:16"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 31,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2266,
+        "timestamp_seconds": 37.77,
+        "recorded_at": "2026-11-05T11:43:17"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 31,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2267,
+        "timestamp_seconds": 37.79,
+        "recorded_at": "2026-11-05T11:43:17"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 31,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2268,
+        "timestamp_seconds": 37.8,
+        "recorded_at": "2026-11-05T11:43:17"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 31,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2270,
+        "timestamp_seconds": 37.84,
+        "recorded_at": "2026-11-05T11:43:17"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 31,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2277,
+        "timestamp_seconds": 37.95,
+        "recorded_at": "2026-11-05T11:43:18"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 31,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2289,
+        "timestamp_seconds": 38.15,
+        "recorded_at": "2026-11-05T11:43:18"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 43,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2347,
+        "timestamp_seconds": 39.12,
+        "recorded_at": "2026-11-05T11:43:22"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 43,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2406,
+        "timestamp_seconds": 40.1,
+        "recorded_at": "2026-11-05T11:43:25"
+    },
+    {
+        "event": "zone_entry",
+        "track_id": 37,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2424,
+        "timestamp_seconds": 40.4,
+        "recorded_at": "2026-11-05T11:43:26"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 46,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2440,
+        "timestamp_seconds": 40.67,
+        "recorded_at": "2026-11-05T11:43:27"
+    },
+    {
+        "event": "zone_exit",
+        "track_id": 37,
+        "zone_id": "restricted_zone_1",
+        "frame_number": 2441,
+        "timestamp_seconds": 40.69,
+        "recorded_at": "2026-11-05T11:43:27"
+    }
+]
